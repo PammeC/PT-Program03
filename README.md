@@ -41,4 +41,3 @@ https://pt-program03.onrender.com
 - Simple HTML response
 - Automatic browser opening on startup
 - Basic error handling
-- Containerization with Docker
